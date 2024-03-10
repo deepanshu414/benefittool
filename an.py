@@ -62,10 +62,6 @@ def login():
         else:
             pairs = {user_name:user_password}
             record_exists = False
-            p={"deepanshu":"divyanshantil17","paras":"parasmutreja15","vivek":"vivekantil01","mukul":"mukulkaushik02","aanchal":"aanchaljha13","aasshish":"aashisharora100","yash":"yashkumar200"}
-            with open("userdata.txt", 'w') as file:
-                for key, value in p.items():
-                    file.write(f"{key}:{value}\n")
             with open("userdata.txt", 'r') as file:
                 for line in file:
                     key, value = line.strip().split(':')
