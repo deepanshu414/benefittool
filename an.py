@@ -48,6 +48,181 @@ with stylable_container(
         margin: 0px;
         padding: 0px;
     }
+    .st-emotion-cache-1li7dat.e1y5xkzn1 {
+        display: none;
+    }
+    svg.st-c3.st-c4.st-c5.st-c6.st-c7 {
+        fill: crimson;
+    }
+    textarea.st-ae.st-bc.st-bd.st-be.st-bf.st-bg.st-bh.st-bi.st-bj.st-bk.st-bl.st-ah.st-bm.st-bn.st-bo.st-bp.st-eg.st-eh.st-ei.st-ej.st-ax.st-ay.st-az.st-bu.st-b1.st-b2.st-bb.st-bv.st-ek.st-el.st-e0.st-en {
+        font-family: sans-serif;
+    }
+    span.st-emotion-cache-10trblm.e1nzilvr1 {
+        font-family: math;
+    }
+    span.st-emotion-cache-10trblm.e1nzilvr1 {
+        text-shadow: 1px 10px 20px gray;
+    }
+    textarea.st-ae.st-bc.st-bd.st-be.st-bf.st-bg.st-bh.st-bi.st-bj.st-bk.st-bl.st-ah.st-bm.st-bn.st-bo.st-bp.st-eg.st-eh.st-ei.st-ej.st-ax.st-ay.st-az.st-bu.st-b1.st-b2.st-bb.st-bv.st-ek.st-el.st-e0.st-en {
+        margin-left: 20px;
+    }
+    label.st-ci.st-af.st-cj.st-cf.st-ck.st-cl.st-cm.st-cn.st-co.st-cp.st-cq.st-cr.st-cs.st-ct:hover {
+        transform: scale(1.2);
+    }
+    p {
+    font-weight: unset;
+    }
+    p {
+        font-family: system-ui;
+        text-shadow: 1px 1px 1px white;
+    }
+    label.st-ci.st-af.st-cj.st-cf.st-ck.st-cl.st-cm.st-cn.st-co.st-cp.st-cq.st-cr.st-cs.st-ct {
+        margin-bottom: 10px;
+    }
+    .st-emotion-cache-16idsys.e1nzilvr5 {
+        box-shadow: 2px 1px 2px black;
+        margin: 0 0px 10px 0px;
+        padding: 10px;
+        font-weight: bold;
+    }
+    span.st-emotion-cache-10trblm.e1nzilvr1 {
+        font-family: inherit;
+        text-transform: capitalize;
+    }
+    section.st-emotion-cache-1gulkj5.e1b2p2ww15 {
+        box-shadow: 2px 1px 2px;
+    }
+    button.st-emotion-cache-7ym5gk.ef3psqc12 {
+        text-shadow: 2px 3px 10px gray;
+    }
+    .st-emotion-cache-16idsys.e1nzilvr5 {
+        border-radius: 10px;
+    }
+    span.st-emotion-cache-9ycgxx.e1b2p2ww12 {
+        font-family: cursive;
+        font-weight: bold;
+        text-shadow: 2px 2px 20px gray;
+    }
+    small.st-emotion-cache-1aehpvj.e1bju1570 {
+        font-family: monospace;
+        font-weight: bold;
+        text-shadow: 2px 5px 15px gray;
+    }
+    span.st-emotion-cache-10trblm.e1nzilvr1 {
+        text-shadow: 2px 7px 5px darkgoldenrod;
+    }
+    button.st-emotion-cache-7ym5gk.ef3psqc12 {
+        margin-bottom: 10px;
+    }
+    .st-emotion-cache-16idsys.e1nzilvr5 {
+        color: cadetblue;
+    }
+    section.main.st-emotion-cache-uf99v8.ea3mdgi3 {
+        margin-bottom: 120px;
+    }
+    input.st-ae.st-bc.st-bd.st-be.st-bf.st-bg.st-bh.st-bi.st-bj.st-bk.st-bl.st-ah.st-bm.st-bn.st-bo.st-bp.st-bq.st-br.st-bs.st-bt.st-ax.st-ay.st-az.st-bu.st-b1.st-b2.st-bb.st-bv.st-bw.st-bx {
+        color: steelblue;
+        font-family: cursive;
+        margin-left:15px;
+    }
+    .st-af.st-ah.st-ba.st-ar.st-as.st-ax.st-ay.st-az.st-b0.st-b1.st-b2.st-bb.st-b7 {
+        background: ghostwhite;
+    }
+    .st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-ak.st-al.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-ax.st-ay.st-az.st-b0.st-b1.st-b2.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-by {
+        background: ghostwhite;
+        box-shadow: 0 1px 2px black;
+    }
+    .st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-ak.st-al.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-ax.st-ay.st-az.st-b0.st-b1.st-b2.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9 {
+        box-shadow: 0 1px 2px black;
+    }
+    .st-ax.st-ay.st-az.st-bu.st-b1.st-b2.st-ae.st-dj.st-ah {
+        font-family: cursive;
+        box-shadow: 0px 1px 2px black;
+        background: ghostwhite;
+    }
+    .st-ae.st-af.st-ag.st-ah.st-ef.st-eg.st-eh.st-ei.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9 {
+        box-shadow: 0px 1px 2px black;
+    }
+    textarea.st-ae.st-bc.st-bd.st-be.st-bf.st-bg.st-bh.st-bi.st-bj.st-bk.st-bl.st-ah.st-bm.st-bn.st-bo.st-bp.st-ej.st-ek.st-el.st-em.st-ax.st-ay.st-az.st-bu.st-b1.st-b2.st-bb.st-bv.st-bw.st-bx.st-en.st-eo.st-ep {
+        font-family: cursive;
+    }
+    .st-emotion-cache-16idsys.e1nzilvr5 {
+        box-shadow: 0px 1px 2px black;
+    }
+    span.st-emotion-cache-10trblm.e1nzilvr1 {
+        text-shadow: 0px 1px 5px cadetblue;
+        color: cadetblue;
+    }
+    span.st-emotion-cache-nwtri.e1b2p2ww13 {
+        filter: drop-shadow(0px 1px 0px black);
+    }
+    button.st-emotion-cache-7ym5gk.ef3psqc12 {
+        text-shadow: 0px 1px 1px cadetblue;
+        color: cadetblue;
+    }
+    button.st-emotion-cache-7ym5gk.ef3psqc12:hover{
+        color:black;
+        outline:none;
+        border:2px solid black;
+        background-image: white;
+    }
+    button.st-emotion-cache-7ym5gk.ef3psqc12:active{
+        color:black;
+        outline:none;
+        border:2px solid black;
+        text-shadow: 0px 1px 1px black;
+        animation:s 2s ;
+        background-image: linear-gradient(180deg, lightgreen, skyblue);
+    }
+    button.st-af.st-bz.st-bj.st-bk.st-bh.st-bi.st-c0.st-c1.st-c2.st-bl.st-bb {
+        border: none;
+        outline: none;
+    }
+    .stCodeBlock.st-emotion-cache-12r09dv.e1ycw9pz1 {
+        box-shadow: 0px 0px 2px black;
+    }
+    .st-emotion-cache-0.eqpbllx5 {
+        box-shadow: 0px 0px 1px black;
+    }
+    label.st-emotion-cache-ue6h4q.e1y5xkzn3 {
+        margin-left: 10px;
+    }
+    section.st-emotion-cache-1gulkj5.e1b2p2ww15 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-ak.st-al.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-ax.st-ay.st-az.st-b0.st-b1.st-b2.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9 {
+        margin-left: 10px;
+        margin-right: 10px;
+        width: 98%;
+    }
+    .st-emotion-cache-1om1ktf.ezh4s2r0 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .st-emotion-cache-0.eqpbllx5 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .st-ax.st-ay.st-az.st-bu.st-b1.st-b2.st-ae.st-dj.st-ah {
+        margin-left: 10px;
+        margin-right: 10px;
+        width: 98%;
+    }
+    .st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-ak.st-al.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-ax.st-ay.st-az.st-b0.st-b1.st-b2.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-by {
+        margin-left: 10px;
+        margin-right: 10px;
+        width: 98%;
+    }
+    .st-emotion-cache-11lmpti.e1f1d6gn2 {
+        overflow: auto;
+    }
+    .uploadedFileName.st-emotion-cache-1uixxvy.e1b2p2ww6 {
+        text-shadow: 0px 0px 1px black;
+    }
+    section.main.st-emotion-cache-uf99v8.ea3mdgi3 {
+        overflow: auto;
+    }
     """
 ):
     st.markdown("""<style>body{text-align:center;}</style>""",True)
@@ -55,11 +230,9 @@ def login():
     st.markdown("<h1>Login</h1><br><br>", unsafe_allow_html=True)
     user_name = st.text_input("Enter user name")
     user_password = st.text_input("Enter password", type="password")
-    submit = st.button("Submit")
-    if submit:
-        if user_name == "" or user_password == "":
-            st.warning("Fill all fields")
-        else:
+    if user_name != "" and user_password != "":
+        submit = st.button("Submit")
+        if submit:
             pairs = {user_name:user_password}
             record_exists = False
             with open("userdata.txt", 'r') as file:
@@ -77,7 +250,7 @@ def login():
                             record_check = True
                             break
                 if not record_check:
-                    with open("newuserdata.txt", 'w') as file:
+                    with open("newuserdata.txt", 'a') as file:
                         for key, value in pairs.items():
                             file.write(f"{key}:{value}\n")
             st.session_state.logged_in = True
@@ -88,25 +261,13 @@ def display_zip_files(directory):
     zip_files = [f for f in os.listdir(directory) if f.endswith('.zip')]
     return zip_files
 def personal_data():
-    u=st.session_state.user_name
-    v=st.session_state.user_password
-    di={"deepanshu":"divyanshantil17","paras":"parasmutreja16","vivek":"vivekantil15","mukul":"mukulkaushik14","aanchal":"aanchaljha13"}
-    za=0
-    for key, value in di.items():
-        if(u.lower()==key and  v.lower() == value):
-            za+=1
-            break
-    if(za!=0):
-        value=st.sidebar.radio("Navigation",["Home","Upload_other_things","Zip_file_uploader","Show_zip_file","Add_question","Show question","Add answer","Show answer","Code store","Code","Image","CJ_image","SMM_image","DCN_image","RDBMS_image","ML_image","PL_image","SE_image","Video","Mp3","Pdf","Excel_data","Text file","Csv","Message","Map","Remove_background","Image_Convertor_Pdf"],index=0 )
-    else:
-        value=st.sidebar.radio("Navigation",["Remove_background","Image_Convertor_Pdf"])
-    if(value=="Home"):
+    def home():
         st.title("Upload Data")
         na=st.selectbox("Subject name",["Select name","CJ","SMM","DCN","RDBMS","ML","PL","SE"],index=0)
         uploaded_file = st.file_uploader("Choose a file", type=["jpg", "png", "jpeg"])
-        button = st.button("Submit")
-        if(button == True):
-            if na!="Select name" and uploaded_file is not None:
+        if na!="Select name" and uploaded_file is not None:
+            button = st.button("Submit")
+            if (button == True):
                 if uploaded_file is not None:
                     file_extension = uploaded_file.name.split(".")[-1].lower()
                     if file_extension in ["jpg", "jpeg", "png", "gif"]:
@@ -165,55 +326,55 @@ def personal_data():
                     st.success("Successfully uploaded")
                 else:
                     st.error("File not be considered uploaded")
-            else:
-                st.warning("Fill all fields ...")
-    elif(value=="Upload_other_things"):
+    def upload():
         st.markdown("<h1 style='text-align:center;'>Upload</h1><br>", True)
         uploaded_file = st.file_uploader("Choose a file", type=["jpg", "png", "pdf", "txt", "csv", "xlsx", "jpeg", "xls", "mp4", "wav", "mp3", "avi", "mov"])
         if uploaded_file is not None:
-            file_extension = uploaded_file.name.split(".")[-1].lower()
-            if file_extension in ["jpg", "jpeg", "png", "gif"]:
-                folder="ant/image"
-                with open(os.path.join(folder, uploaded_file.name), "wb") as f:
-                        f.write(uploaded_file.getbuffer())
-            elif file_extension == "pdf":
-                folder="ant/pdf"
-                with open(os.path.join(folder, uploaded_file.name), "wb") as f:
-                        f.write(uploaded_file.getbuffer())
-            elif file_extension == "txt":
-                folder="ant/text"
-                with open(os.path.join(folder, uploaded_file.name), "wb") as f:
-                        f.write(uploaded_file.getbuffer())
-            elif file_extension in ["xlsx", "xls"]:
-                folder="ant/excel"
-                name_excel=uploaded_file.name.strip().split('.')[0]
-                text_file = str(name_excel)+".txt"
-                with open(os.path.join(folder, text_file), "wb") as f:
-                        df = pd.read_excel(uploaded_file)
-                        df.to_csv(f, index=False)
-            elif file_extension == "csv":
-                folder="ant/csv"
-                name_excel=uploaded_file.name.strip().split('.')[0]
-                text_file = str(name_excel)+".txt"
-                with open(os.path.join(folder, text_file), "wb") as f:
-                        df = pd.read_excel(uploaded_file)
-                        df.to_csv(f, index=False)
-            elif file_extension in ["mp4","avi","mov"]:
-                folder="ant/mp4f"
-                with open(os.path.join(folder, uploaded_file.name), "wb") as f:
-                        f.write(uploaded_file.getbuffer())
-            elif file_extension in ["mp3","wav"]:
-                folder="ant/mp3f"
-                with open(os.path.join(folder, uploaded_file.name), "wb") as f:
-                        f.write(uploaded_file.getbuffer())
-            st.success("Successfully uploaded")
-    elif(value=="Zip_file_uploader"):
+            button = st.button("Submit")
+            if button:
+                file_extension = uploaded_file.name.split(".")[-1].lower()
+                if file_extension in ["jpg", "jpeg", "png", "gif"]:
+                    folder="ant/image"
+                    with open(os.path.join(folder, uploaded_file.name), "wb") as f:
+                            f.write(uploaded_file.getbuffer())
+                elif file_extension == "pdf":
+                    folder="ant/pdf"
+                    with open(os.path.join(folder, uploaded_file.name), "wb") as f:
+                            f.write(uploaded_file.getbuffer())
+                elif file_extension == "txt":
+                    folder="ant/text"
+                    with open(os.path.join(folder, uploaded_file.name), "wb") as f:
+                            f.write(uploaded_file.getbuffer())
+                elif file_extension in ["xlsx", "xls"]:
+                    folder="ant/excel"
+                    name_excel=uploaded_file.name.strip().split('.')[0]
+                    text_file = str(name_excel)+".txt"
+                    with open(os.path.join(folder, text_file), "wb") as f:
+                            df = pd.read_excel(uploaded_file)
+                            df.to_csv(f, index=False)
+                elif file_extension == "csv":
+                    folder="ant/csv"
+                    name_excel=uploaded_file.name.strip().split('.')[0]
+                    text_file = str(name_excel)+".txt"
+                    with open(os.path.join(folder, text_file), "wb") as f:
+                            df = pd.read_excel(uploaded_file)
+                            df.to_csv(f, index=False)
+                elif file_extension in ["mp4","avi","mov"]:
+                    folder="ant/mp4f"
+                    with open(os.path.join(folder, uploaded_file.name), "wb") as f:
+                            f.write(uploaded_file.getbuffer())
+                elif file_extension in ["mp3","wav"]:
+                    folder="ant/mp3f"
+                    with open(os.path.join(folder, uploaded_file.name), "wb") as f:
+                            f.write(uploaded_file.getbuffer())
+                st.success("Successfully uploaded")
+    def zip_upload():
         st.markdown("<h1 style='text-align:center;'>Store zip files</h1><br>", True)
-        zip_file_upload = st.file_uploader("", type=["zip"])
-        button = st.button("Submit")
+        zip_file_upload = st.file_uploader("Zip files", type=["zip"])
         folder = "ant\zip_folder"
-        if button:
-            if zip_file_upload is not None:
+        if zip_file_upload is not None:
+            button = st.button("Submit")
+            if button:
                 try:
                     zip_content=zip_file_upload.getvalue()
                     zip_path = os.path.join(folder, zip_file_upload.name)
@@ -222,42 +383,41 @@ def personal_data():
                     st.success("Successfully uploaded ")
                 except Exception as e:
                     st.error(e)
-            else:
-                st.warning("Fill all fields.")
-    elif(value=="Show_zip_file"):
+    def show_zip():
         st.markdown("<h1 style='text-align:center;'>Show all zip files</h1><br>", True)
         folder="ant\zip_folder"
         a=1
         for root, dirs, filenames in os.walk(folder):
             for filename in filenames:
-                st.markdown(f"<h6 style='text-align:center;'>{a} files</h6><br>", True)
                 if(filename!="ashdkiowersdnm,c23434df38rakl_q842wer3rkajew38rqw2338.txt"):
+                    st.markdown(f"<h6 style='text-align:center;'>{a} files</h6><br>", True)
                     url = os.path.join(folder, filename)
                     with open(url, "rb") as f:
                         zip_content = f.read()
                     st.download_button(label="Download :- "+str(filename), data=zip_content, file_name=filename, mime="application/zip")
                     st.caption("File name: " + filename)
                     a += 1
-    elif(value=="Add_question"):
+    def add_question():
+        st.markdown("<h1 style='text-align:center;'>Add Questions</h1><br>", True)
         na=st.text_input("Name",placeholder="Enter your name")
-        la=st.selectbox("Select Language",["C","C++","Python","SQL","Java","Php","Html","CSS","Javascript","Html + Css","Html + Css + Javascript","Html +Javascript","Ruby","Swift","Go","Rust","Typing script","Kotlin","Perl","R","Matlab","Assembly Languages","DSA","DA","Networking","RDBMS"])
+        la=st.selectbox("Select Language",["Python","Javascript","Html","Css","Java","Cpp","Json","Yaml","Sql","Markdown","Hash","R","Bash","Php","Ruby","Swift","Typescript","Xml","Rust","Go","Perl","Scala","Kotlin"])
         qu=st.text_area("Question",placeholder="Enter a question")
-        bt=st.button("Submit")
-        if(bt==True):
-            if(na!="" and la!=""and qu!=""):
+        text_list = qu.split('\n')
+        li='__.--.--.__'.join(text_list)
+        if (na!="" and la!=""and qu!=""):
+            bt=st.button("Submit")
+            if (bt==True):
                 folder="ant/question.txt"
                 with open(folder,'r') as file:
                     te=file.read()
                     if(te!=""):
                         with open(folder,'a') as file:
-                            file.write("\n"+na+" : "+la +" : " +qu)
+                            file.write("\n"+na+" :-:-:-: "+la +" :-:-:-: " +li)
                     else:
                         with open(folder,'w') as file:
-                            file.write(na+" : "+la +" : " +qu)
+                            file.write(na+" :-:-:-: "+la +" :-:-:-: " +li)
                     st.success("Successfully submitted question")
-            else:
-                st.warning("Fill all fields")
-    elif(value=="Show question"):
+    def show_question():
         st.markdown("<h1 style='text-align:center;'>Show all questions</h1><br>", True)
         folder="ant/question.txt"
         a=1
@@ -267,36 +427,62 @@ def personal_data():
             if(text != ""):
                 for line in lines:
                     st.markdown(f"<h3 style='text-align:center;'>{a} Question</h3><br>", True)
-                    ana=line.split(":")[0].strip()
-                    ala=line.split(":")[1].strip()
-                    aqu=line.split(":")[2].strip()
-                    st.markdown(f"<h2 style='text-align:center;color:blue;'>{ala}</h2>",True)
-                    st.markdown(f"<h5 style='text-align:center;color:red;'>{aqu}</h5>",True)
+                    ana=line.split(":-:-:-:")[0].strip()
+                    ala=line.split(":-:-:-:")[1].strip()
+                    aqu=line.split(":-:-:-:")[2].strip()
+                    rlk=aqu.split('__.--.--.__')
+                    ex=st.expander("Language ("+ala+")")
+                    stri=""
+                    for i in range(len(rlk)):
+                        stri=stri+rlk[i]+"\n"
+                    ex.code("Question: - \n" +stri,language="C")
                     a+=1
                     st.caption(ana)
-    elif(value=="Add answer"):
+    def add_answer():
+        st.markdown("<h1 style='text-align:center;'>Add Answers</h1><br>", True)
         na=st.text_input("Name",placeholder="Enter your name")
-        la=st.selectbox("Select Language",["C","C++","Python","SQL","Java","Php","Html","CSS","Javascript","Html + Css","Html + Css + Javascript","Html +Javascript","Ruby","Swift","Go","Rust","Typing script","Kotlin","Perl","R","Matlab","Assembly Languages","DSA","DA","Networking","RDBMS"])
-        qu=st.text_area("Question",placeholder="Enter a question",key="que")
+        la=st.selectbox("Select Language",["Python","Javascript","Html","Css","Java","Cpp","Json","Yaml","Sql","Markdown","Hash","R","Bash","Php","Ruby","Swift","Typescript","Xml","Rust","Go","Perl","Scala","Kotlin"])
+        folder="ant/question.txt"
+        m=[]
+        with open(folder, "r") as file:
+            text = file.read()
+            lines = text.splitlines()
+            if(text != ""):
+                for line in lines:
+                    ana=line.split(":-:-:-:")[0].strip()
+                    ala=line.split(":-:-:-:")[1].strip()
+                    aqu=line.split(":-:-:-:")[2].strip()
+                    rlk=aqu.split('__.--.--.__')
+                    if(la==ala):
+                        stri=""
+                        for i in range(len(rlk)):
+                            stri=stri+rlk[i]
+                        m.append(stri)
+                    else:
+                        pass
+                m.append("Other")
+            else:
+                m.append("Other")
+        qu=st.selectbox("Question",m,index=None)
+        if(qu=="Other"):
+            qu=st.text_area("Other Question",placeholder="Enter a question",key="que")
         ans=st.text_area("Answer",placeholder="Enter your answer",key="answ")
-        bt=st.button("Submit")
         text_list = ans.split('\n')
         li='__.--.--.__'.join(text_list)
-        if(bt==True):
-            if(na!="" and la!=""and qu!="" and ans!=""):
+        if(na!="" and la!=""and qu!="" and ans!=""):
+            bt=st.button("Submit")
+            if (bt==True):
                 folder="ant/answer.txt"
                 with open(folder,'r') as file:
                     te=file.read()
                     if(te!=""):
                         with open(folder,'a') as file:
-                            file.write("\n"+na+" : "+la +" : " +qu + " : "+li)
+                            file.write("\n"+na+" :-:-:-: "+la.lower() +" :-:-:-: " +qu + " :-:-:-: "+li)
                     else:
                         with open(folder,'w') as file:
-                            file.write(na+" : "+la +" : " +qu + " : "+li)
+                            file.write(na+" :-:-:-: "+la.lower() +" :-:-:-: " +qu + " :-:-:-: "+li)
                 st.success("Successfully submitted answer")
-            else:
-                st.warning("Fill all fields")
-    elif(value=="Show answer"):
+    def show_answer():
         with stylable_container(
             key="ab",
             css_styles="""
@@ -320,41 +506,39 @@ def personal_data():
             if(text != ""):
                 for line in lines:
                     st.markdown(f"<h3 style='text-align:center;'>{a} Question</h3><br>", True)
-                    ana=line.split(":")[0].strip()
-                    ala=line.split(":")[1].strip()
-                    aqu=line.split(":")[2].strip()
-                    aans=line.split(":")[3].strip()
+                    ana=line.split(":-:-:-:")[0].strip()
+                    ala=line.split(":-:-:-:")[1].strip()
+                    aqu=line.split(":-:-:-:")[2].strip()
+                    aans=line.split(":-:-:-:")[3].strip()
                     rlk=aans.split('__.--.--.__')
                     ex=st.expander("Language ("+ala+") Qustion  :- "+ aqu)
                     stri=""
                     for i in range(len(rlk)):
                         stri=stri+rlk[i]+"\n"
-                    ex.code(stri)
+                    ex.code(stri,language=ala)
                     a+=1
                     st.caption(ana)
-    elif(value=="Code store"):
+    def code_store():
         st.markdown("<h1 style='text-align:center;'>Code</h1><br>", True)
-        l_n=st.selectbox("Code name",["python","javascript","html","css","java","cpp","json","yaml","sql","markdown","hash","r","bash","php","ruby","swift","typescript","xml","rust","go","perl","scala","kotlin"])
+        l_n=st.selectbox("Code name",["Python","Javascript","Html","Css","Java","Cpp","Json","Yaml","Sql","Markdown","Hash","R","Bash","Php","Ruby","Swift","Typescript","Xml","Rust","Go","Perl","Scala","Kotlin"])
         l_s=st.text_area("Code")
-        btn=st.button("Submit")
         text_list = l_s.split('\n')
         li='__.--.--.__'.join(text_list)
         folder="ant/code.txt"
-        if( btn ==True):
-            if(l_n!="" and l_s!=""):
+        if(l_n!="" and l_s!=""):
+            btn=st.button("Submit")
+            if ( btn ==True):
                 with open(folder,'r') as file:
                     rea=file.read() 
                 if(rea !=""):
                     with open(folder,'a') as file:
-                        file.write("\n"+l_n+" : "+li)
+                        file.write("\n"+l_n.lower()+" :-:-:-: "+li)
                     st.success("Submitted successfully")
                 else:
                     with open(folder,'w') as file:
-                        file.write(l_n+" : "+li)
+                        file.write(l_n+" :-:-:-: "+li)
                     st.success("Submitted successfully")
-            else:
-                st.warning("Fill all fields")
-    elif(value=="Code"):
+    def show_code():
         with stylable_container(
             key="ab",
             css_styles="""
@@ -377,8 +561,8 @@ def personal_data():
             lines = text.splitlines()
             for line in lines:
                 st.markdown(f"<h6 style='text-align:center;'>{a} code</h6><br>", True)
-                link_name=line.split(":")[0].strip()
-                link=line.split(":")[1].strip()
+                link_name=line.split(":-:-:-:")[0].strip()
+                link=line.split(":-:-:-:")[1].strip()
                 r_l=link.split('__.--.--.__')
                 ex=st.expander(link_name)
                 stk=""
@@ -386,7 +570,7 @@ def personal_data():
                     stk=stk+r_l[i]+"\n"
                 aq=ex.code(stk,language=link_name)
                 a+=1
-    elif(value=="CJ_image"):
+    def cj_image():
         st.markdown("<h1 style='text-align:center;'>CJ Images</h1><br>", True)
         folder="ant/CJ_image"
         a=1
@@ -397,7 +581,7 @@ def personal_data():
                     pat=os.path.join(folder, filename)
                     st.image(pat,caption="File name : " + filename, use_column_width=True)
                     a=a+1
-    elif(value=="SMM_image"):
+    def smm_image():
         st.markdown("<h1 style='text-align:center;'>SMM Images</h1><br>", True)
         folder="ant/SMM_image"
         a=1
@@ -408,7 +592,7 @@ def personal_data():
                     pat=os.path.join(folder, filename)
                     st.image(pat,caption="File name : " + filename, use_column_width=True)
                     a=a+1
-    elif(value=="DCN_image"):
+    def dcn_image():
         st.markdown("<h1 style='text-align:center;'>DCN Images</h1><br>", True)
         folder="ant/DNC_image"
         a=1
@@ -419,7 +603,7 @@ def personal_data():
                     pat=os.path.join(folder, filename)
                     st.image(pat,caption="File name : " + filename, use_column_width=True)
                     a=a+1
-    elif(value=="RDBMS_image"):
+    def rdbms_image():
         st.markdown("<h1 style='text-align:center;'>RDBMS Images</h1><br>", True)
         folder="ant/RDBMS_image"
         a=1
@@ -430,7 +614,7 @@ def personal_data():
                     pat=os.path.join(folder, filename)
                     st.image(pat,"File name : " + filename, use_column_width=True)
                     a=a+1
-    elif(value=="ML_image"):
+    def ml_image():
         st.markdown("<h1 style='text-align:center;'>ML Images</h1><br>", True)
         folder="ant/ML_image"
         a=1
@@ -441,7 +625,7 @@ def personal_data():
                     pat=os.path.join(folder, filename)
                     st.image(pat,caption="File name : " + filename, use_column_width=True)
                     a=a+1
-    elif(value=="PL_image"):
+    def pl_image():
         st.markdown("<h1 style='text-align:center;'>PL Images</h1><br>", True)
         folder="ant/PL_image"
         a=1
@@ -452,7 +636,7 @@ def personal_data():
                     pat=os.path.join(folder, filename)
                     st.image(pat,caption="File name : " + filename, use_column_width=True)
                     a=a+1
-    elif(value=="SE_image"):
+    def se_image():
         st.markdown("<h1 style='text-align:center;'>SE Images</h1><br>", True)
         folder="ant/SE_image"
         a=1
@@ -463,7 +647,7 @@ def personal_data():
                     pat=os.path.join(folder, filename)
                     st.image(pat,caption="File name : " + filename, use_column_width=True)
                     a=a+1
-    elif(value=="Image"):
+    def simple_image():
         st.markdown("<h1 style='text-align:center;'>Images</h1><br>", True)
         folder="ant/image"
         a=1
@@ -474,7 +658,7 @@ def personal_data():
                     pat=os.path.join(folder, filename)
                     st.image(pat,caption="File name : " + filename, use_column_width=True)
                     a=a+1
-    elif(value == "Csv"):
+    def show_csv():
         st.markdown("<h1 style='text-align:center;'>Csv files</h1><br>", True)
         folder="ant/csv"
         a=1
@@ -486,7 +670,7 @@ def personal_data():
                     st.write(df) 
                     a=a+1
                     st.caption("File name : " + filename)
-    elif(value =="Excel_data"):
+    def show_excel():
         st.markdown("<h1 style='text-align:center;'>Excel files</h1><br>", True)
         folder="ant/excel"
         a=1
@@ -498,7 +682,7 @@ def personal_data():
                     st.write(df) 
                     a=a+1
                     st.caption("File name : " + filename)
-    elif(value =="Text file"):
+    def show_text_file():
         st.markdown("<h1 style='text-align:center;'>Text files</h1><br>", True)
         folder="ant/text"
         a=1
@@ -511,7 +695,7 @@ def personal_data():
                         st.write(text)
                     a=a+1
                     st.caption("File name : " + filename)
-    elif value == "Pdf":
+    def show_pdf():
         st.markdown("<h1 style='text-align:center;'>Pdf files</h1><br>", True)
         folder = "ant/pdf"
         a = 1
@@ -536,7 +720,7 @@ def personal_data():
                         st.error(f"Error reading PDF file: {e}")
                     a += 1
                     st.caption("File name : " + filename)
-    elif(value=="Mp3"):
+    def show_mp3():
         st.markdown("<h1 style='text-align:center;'>Mp3</h1><br>", True)
         folder="ant/mp3f"
         a=1
@@ -548,8 +732,8 @@ def personal_data():
                     st.audio(audio_file, format='audio/mp3', start_time=0)
                     st.caption("File name : " + filename)
                     a=a+1 
-    elif(value=="Video"):
-        st.markdown("<h1 style='text-align:center;'>Mp3</h1><br>", True)
+    def show_mp4():
+        st.markdown("<h1 style='text-align:center;'>Mp4</h1><br>", True)
         folder="ant/mp4f"
         a=1
         for root, dirs, filenames in os.walk(folder):
@@ -560,7 +744,9 @@ def personal_data():
                     st.video(video_file, format='video/mp4')
                     st.caption("File name : " + filename)
                     a=a+1 
-    elif(value=="Message"):
+    def show_and_store_message():
+        u=st.session_state.user_name
+        v=st.session_state.user_password
         st.markdown("<h1 style='text-align:center;'>Messages</h1><br>", True)
         folder="ant/message.txt"
         l=0
@@ -570,16 +756,24 @@ def personal_data():
             if(text != ""):
                 for line in lines:
                     l+=1
+                    az=line.split(":-:-:-:")[1].strip()
+                    za=line.split(":-:-:-:")[0].strip()
                     if(line.startswith(u.lower())):
-                        az=line.split(":")[1].strip()
-                        st.markdown(f"<h6 style='text-align:right;color:green;'>{az}</h6>",True)
+                        st.markdown(f"<h6 style='text-align:right;color:green;font-family: revert;margin-right:20px;'>{az}</h6>",True)
                     else:
-                        st.markdown(f"<h6 style='text-align:left;color:black;'>{line.capitalize()}</h6>",True)
+                        st.markdown(f"<h6 style='text-align:left;'><span style='color:red;font-weight:bold;font-family: system-ui;margin-left:10px;'>{za.capitalize()}</span> : <span style='color:blue;font-family: cursive;'> {az}</span> </h6>",True)
         mg = st.chat_input("Enter Message ... ")
         if mg and mg.strip():  
-            with open(folder, "a") as file:
-                text = "\n" + u.lower() + " : " + mg
-                file.write(text)
+            with open(folder,'r') as fil:
+                t=fil.read()
+            if(t!=""):
+                with open(folder, "a") as file:
+                    text = "\n" + u.lower() + " :-:-:-: " + mg
+                    file.write(text)
+            else:
+                with open(folder, "a") as file:
+                    text = u.lower() + " :-:-:-: " + mg
+                    file.write(text)
         while True:
             k=0
             with open(folder, "r") as file:
@@ -593,14 +787,15 @@ def personal_data():
                     lines = text.splitlines()
                     if lines: 
                         last_line = lines[-1]
+                        az=last_line.split(":-:-:-:")[1].strip()
+                        za=line.split(":-:-:-:")[0].strip()
                         if(line.startswith(u.lower())):
-                            az=last_line.split(":")[1].strip()
-                            st.markdown(f"<h6 style='text-align:right;color:green;'>{az}</h6>",True)
+                            st.markdown(f"<h6 style='text-align:right;color:green;font-family: revert;margin-right:20px;'>{az}</h6>",True)
                         else:
-                            st.markdown(f"<h6 style='text-align:left;color:black;'>{line.capitalize()}</h6>",True)
+                            st.markdown(f"<h6 style='text-align:left;'><span style='color:red;font-weight:bold;font-family: system-ui;margin-left:10px;'>{za.capitalize()}</span> : <span style='color:blue;font-family: cursive;'> {az}</span> </h6>",True)
                 l+=1
             time.sleep(1)
-    elif(value=="Map"):
+    def show_map():
         a=st.number_input("Latitude",placeholder="for ex:- 32.1323")
         b=st.number_input("Longitude",placeholder="for ex:- 112.345")
         def plot_location_on_map(a,b):
@@ -611,9 +806,9 @@ def personal_data():
             st.map(data,zoom=5)
         if(a!="" and b!=""):
             plot_location_on_map(a,b)
-    elif(value=="Remove_background"):
+    def remove_background_from_image():
         st.title("Remove Background")
-        input_file = st.file_uploader("",["jpg","png","jpg","bmp","jpeg","gif","svg","tga","tiff","WebP"])
+        input_file = st.file_uploader("Select Image",["jpg","png","jpg","bmp","jpeg","gif","svg","tga","tiff","WebP"])
         if input_file is not None:
             with open("temp_file", "wb") as f:
                 f.write(input_file.read())
@@ -632,7 +827,7 @@ def personal_data():
                         file_extension =input_file.name.split(".")[-1].lower()
                         mime_type = f"image/{file_extension}"
                         st.download_button(label="Download",data=output,file_name=file_name,mime=mime_type)
-    elif(value=="Image_Convertor_Pdf"):
+    def image_convertor_pdf():
         def images_to_pdf(images, output_path):
             images[0].save(output_path, save_all=True, append_images=images[1:])
         def delete_files(folder_path):
@@ -645,10 +840,10 @@ def personal_data():
             else:
                 print("No files found in the folder.")
         st.title("Image to PDF Converter")
-        uploaded_files = st.file_uploader("", type=["jpg", "png"], accept_multiple_files=True)
-        name=st.text_input("",placeholder="Enter pdf name ...")
-        if st.button("Convert") :
-            if(uploaded_files!="" and name!=""):
+        uploaded_files = st.file_uploader("Select Image", type=["jpg", "png"], accept_multiple_files=True)
+        name=st.text_input("PDF Name",placeholder="Enter pdf name ...")
+        if (uploaded_files is not None and name!="") :
+            if st.button("Convert"):
                 images = []
                 for uploaded_file in uploaded_files:
                     image = Image.open(uploaded_file)
@@ -671,15 +866,84 @@ def personal_data():
                     with open(output_path, "rb") as f:
                         pdf_data = f.read()
                     st.download_button(label="Download PDF", data=pdf_data, file_name=an, mime="application/pdf")
-            else:
-                st.warning("Fill all fields...")
-            
-
+    def check_nav():
+        xza=0
+        u=st.session_state.user_name
+        v=st.session_state.user_password
+        with open("userdata.txt","r") as file:
+            file1=file.read()
+            lines = file1.splitlines()
+            store_username_and_password=u.lower().strip()+":"+v.lower().strip()
+            for x in lines:
+                if(x==store_username_and_password):
+                    xza+=1
+                    break
+        return xza 
+    za=check_nav()
+    if(za!=0):
+        value=st.sidebar.radio("Navigation",["Home","Upload_other_things","Zip_file_uploader","Show_zip_file","Add_question","Show question","Add answer","Show answer","Code store","Code","Image","CJ_image","SMM_image","DCN_image","RDBMS_image","ML_image","PL_image","SE_image","Video","Mp3","Pdf","Excel_data","Text file","Csv","Message","Map","RemoveBackground","ImageConvertorPdf"],index=0 )
+    else:
+        value=st.sidebar.radio("Navigation",["RemoveBackground","ImageConvertorPdf"])
+    if(value=="Home"):
+        home()
+    elif(value=="Upload_other_things"):
+        upload()
+    elif(value=="Zip_file_uploader"):
+        zip_upload()
+    elif(value=="Show_zip_file"):
+        show_zip()
+    elif(value=="Add_question"):
+        add_question()
+    elif(value=="Show question"):
+        show_question()
+    elif(value=="Add answer"):
+        add_answer()
+    elif(value=="Show answer"):
+        show_answer()
+    elif(value=="Code store"):
+        code_store()
+    elif(value=="Code"):
+        show_code()
+    elif(value=="CJ_image"):
+        cj_image()
+    elif(value=="SMM_image"):
+        smm_image()
+    elif(value=="DCN_image"):
+        dcn_image()
+    elif(value=="RDBMS_image"):
+        rdbms_image()
+    elif(value=="ML_image"):
+        ml_image()
+    elif(value=="PL_image"):
+        pl_image()
+    elif(value=="SE_image"):
+        se_image()
+    elif(value=="Image"):
+        simple_image()
+    elif(value == "Csv"):
+        show_csv()
+    elif(value =="Excel_data"):
+        show_excel()
+    elif(value =="Text file"):
+        show_text_file()
+    elif value == "Pdf":
+        show_pdf()
+    elif(value=="Mp3"):
+        show_mp3()
+    elif(value=="Video"):
+        show_mp4()
+    elif(value=="Message"):
+        show_and_store_message()
+    elif(value=="Map"):
+        show_map()
+    elif(value=="RemoveBackground"):
+        remove_background_from_image()
+    elif(value=="ImageConvertorPdf"):
+        image_convertor_pdf()
 def main():
     if not st.session_state.get("logged_in"):
         login()
     else:
         personal_data()
-
 if __name__ == "__main__":
     main()
