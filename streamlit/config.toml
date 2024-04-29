@@ -1,3 +1,0 @@
-[server]
-maxUploadSize =1000
-enableCORS = true
