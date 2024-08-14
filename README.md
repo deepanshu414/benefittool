@@ -1,7 +1,18 @@
 # Multi-Purpose Image , PDF & Other Tools
-
-
-
+## Table of Contents
+- [Overview](#-overview)
+- [Features](#%EF%B8%8F-features)
+- [Libraries-Used](#-libraries-used)
+- [Project-Structure](#%EF%B8%8F-project-structure)
+- [Getting-Start](#-getting-started)
+- [Authentication](#-authentication)
+- [Image-Processing](#%EF%B8%8F-image-processing)
+- [Message-System](#-messaging-system)
+- [Contribution](#-contributing)
+- [License](#-license)
+- [Author](#-author)
+- [Contact](#-contact)
+  
 ## 🚀 Overview
 
 This repository contains a Python-based web application built with Streamlit. It offers various functionalities related to image processing and PDF manipulation, with additional features for authenticated users.
@@ -66,14 +77,6 @@ pip install -r requirements.txt
 ```sh
 streamlit run an.py
 ```
-## 👥 Contributing
-Contributions to the Benefittools are welcome! Here's how you can contribute:
-
-Fork the repository 
-Create a new branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
 
 ## 🔑 Authentication
 
@@ -95,7 +98,7 @@ Authenticated users can access a messaging section to send and receive messages.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/your-repo-name/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/deepanshu414/benefittool/issues).
 
 ## 📝 License
 
