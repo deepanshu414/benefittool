@@ -1,6 +1,10 @@
 # Multi-Purpose Image , PDF & Other Tools
+
+## 🚀 Overview
+
+This repository contains a Python-based web application built with Streamlit. It offers various functionalities related to image processing and PDF manipulation, with additional features for authenticated users.
+
 ## Table of Contents
-- [Overview](#-overview)
 - [Features](#%EF%B8%8F-features)
 - [Libraries-Used](#-libraries-used)
 - [Project-Structure](#%EF%B8%8F-project-structure)
@@ -12,10 +16,6 @@
 - [License](#-license)
 - [Author](#-author)
 - [Contact](#-contact)
-  
-## 🚀 Overview
-
-This repository contains a Python-based web application built with Streamlit. It offers various functionalities related to image processing and PDF manipulation, with additional features for authenticated users.
 
 ## 🛠️ Features
 
