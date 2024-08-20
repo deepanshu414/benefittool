@@ -7,7 +7,7 @@ This repository contains a Python-based web application built with Streamlit. It
 ## Table of Contents
 - [Features](#%EF%B8%8F-features)
 - [Libraries-Used](#-libraries-used)
-- [Project-Structure](#%EF%B8%8F-project-structure)
+- [Project-Structure](#-%EF%B8%8F-project-structure-)
 - [Getting-Start](#-getting-started)
 - [Authentication](#-authentication)
 - [Image-Processing](#%EF%B8%8F-image-processing)
