@@ -32,7 +32,11 @@ This repository contains a Python-based web application built with Streamlit. It
 - [PyPDF2](https://pypdf2.readthedocs.io/): For PDF manipulation
 - [pandas](https://pandas.pydata.org/): For data handling
 
-## 🏗️ Project Structure
+<details>
+  <summary>
+    <h2> 🏗️ Project Structure </h2>
+  </summary>
+
 ```
 ├── an.py
 ├── requirements.txt
@@ -59,6 +63,8 @@ This repository contains a Python-based web application built with Streamlit. It
 │   └── question.txt
 └── README.md
 ```
+</details>
+
 ## 🚀 Getting Started
 
 1. Clone this repository:
