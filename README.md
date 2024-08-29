@@ -1,6 +1,8 @@
-# Multi-Purpose Image , PDF & Other Tools
+<div align="center">
 
-## 🚀 Overview
+<img src="https://socialify.git.ci/deepanshu414/benefittool/image?description=1&descriptionEditable=Benefit%20tools%20provide%20assistance%20for%20various%20tasks,%20such%20as%20studying,%20organizing,%20and%20managing%20daily%20activities,%20to%20enhance%20productivity%20and%20effectiveness&font=KoHo&forks=1&issues=1&language=1&name=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="SearchMaster" width="640" height="320" />
+
+</div>
 
 This repository contains a Python-based web application built with Streamlit. It offers various functionalities related to image processing and PDF manipulation, with additional features for authenticated users.
 
